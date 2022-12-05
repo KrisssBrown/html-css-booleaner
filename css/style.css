@@ -1,0 +1,19 @@
+/* .header{
+    background-color: #4EA0FF;
+    
+} */
+   
+#logo{
+    height: 100px;
+    width: auto;
+    text-align: left;
+    background-image: url("/img/pattern.png");
+    background-color: #4EA0FF;
+
+
+}
+
+/* #pattern{
+    background-repeat: repeat;
+
+} */
