@@ -11,15 +11,22 @@ header{
     height: 100px;
     position: relative;
     top: 50px;
-    /* width: auto;
-    text-align: left;
-    background-image: url("/img/pattern.png");
-    background-color: #4EA0FF; */
-
 
 }
 
-/* #pattern{
-    background-repeat: repeat;
-
-} */
+#titolo-principale{
+    font-size: 4em;
+}
+.autore{
+    font-size: 2em;
+    
+}
+#autore{
+    font-size: 1em;
+    color: #4EA0FF;
+}
+.timg{
+    height: 500px;
+}
+    
+    
